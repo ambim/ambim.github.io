@@ -5,7 +5,7 @@ title: Come Dine With Me - National Digital Twin edition
 ---
 
 <div class="img-div" markdown="0">
-<img src="/images/cdwm.png" height="200" />
+<img src="/images/cdwm.png" height="100" />
 </div>
 
 
