@@ -3,6 +3,13 @@ layout: post
 title: Four things you missed at the AI & Big Data Expo, London
 ---
 
+<div class="img-div" markdown="0">
+<img src="/images/aiconf.jpeg" />
+</div>
+
+
+
+
 Today I descended on London Olympia for the [AI & Big Data Expo](https://www.ai-expo.net/global/). It was a busy and exciting day, here's four things that stood out for me... 
 
 1) The future of education? I spoke with [SquirrelAI](http://squirrelai.com/), a Chinese Education Tech startup that is automating teaching. This is how it was explained to me... Each subject (e.g. Maths) is split into 10,000 'knowledge-points' (e.g. long division), and each student is assessed against these 10,000 dimensions and a personalised education program is built from that. Is this the future of education... or a little bit scary? I'll let you decide, but they have reached unicorn status after several substantial fundraises in China, and will be looking to expand globally in the coming years. Before you know it, your little Johnny might be having his Maths ability described by a 10,000 dimension vector.
