@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: We need to talk about ethical AI on construction sites
