@@ -13,7 +13,6 @@ Here's a few more things about me:
  * I'm a serial hackathon-er, especially ones related to AEC problems. Here's one I won before with a [great team](http://aec-labs.com/2016/11/uber-for-concrete-wins-uks-construction-news-first-hackathon/).   
  * Outside of the data-sphere, I love to run long distances! 
 
-
 ### Contact me
 
 will.needham at gmx dot com 
