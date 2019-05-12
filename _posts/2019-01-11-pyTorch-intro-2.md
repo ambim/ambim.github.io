@@ -1,3 +1,9 @@
+---
+layout: technical-post
+title: Introduction to pyTorch (part 2 of 3)
+
+---
+
 
 # AUTOGRAD: automatic differentiation
 

@@ -1,3 +1,8 @@
+---
+layout: technical-post
+title: Introduction to pyTorch (part 3 of 3)
+
+---
 
 # Neural networks in pyTorch
 
