@@ -4,6 +4,9 @@ title: Introduction to pyTorch (part 3 of 3)
 
 ---
 
+In this third and final part of the Introduction to pyTorch series, we'll be building neural networks. 
+
+
 # Neural networks in pyTorch
 
 Neural networks can be constructed using the **torch.nn** package.

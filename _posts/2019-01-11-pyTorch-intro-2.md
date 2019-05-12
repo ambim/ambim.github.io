@@ -4,6 +4,7 @@ title: Introduction to pyTorch (part 2 of 3)
 
 ---
 
+In the second part of this three-part introduction to pyTorch, I'll be looking at automatic differentiation and tesnor operations. 
 
 # AUTOGRAD: automatic differentiation
 
