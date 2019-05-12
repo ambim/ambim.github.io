@@ -5,7 +5,7 @@ title: We need to talk about ethical AI on construction sites
 ---
 
 <div class="img-div" markdown="0">
-<img src="/images/ai.jpeg" />
+<img src="/images/ai.jpeg" height="200" />
 </div>
 
 
