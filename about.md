@@ -17,10 +17,4 @@ Here's a few more things about me:
 
 will.needham at gmx dot com 
 
-
-														|
-														|
-														|
-														|
-														|
-         ...or reach out on social media links below     
+...or reach out on social media links below     
