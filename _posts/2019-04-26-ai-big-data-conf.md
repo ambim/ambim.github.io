@@ -21,3 +21,5 @@ Today I descended on London Olympia for the [AI & Big Data Expo](https://www.ai-
 4) IoT ramping up in the UK: Finally, I met Peter Smith (Head of BD @ IAConnects) for the first time in person. In Mott MacDonald's Smart Infrastructure team, we've been using IoT sensors and gateways supplied by [iaConnects](https://www.iaconnects.co.uk/) to develop our smart & healthy buildings product, so it was great to meet in person and hear about the amazing growth their company is going through! 
 
 If you'd like to know more about my experiences at the conference or anything else, please do leave a message or get in touch!
+
+Originally posted [here](https://www.linkedin.com/pulse/four-things-you-missed-ai-big-data-expo-london-will-needham-mciob/). 
