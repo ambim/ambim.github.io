@@ -1,6 +1,6 @@
 ---
 layout: technical-post
-title: Project: Olympics dataset (Kaggle) 
+title: Project - Olympics dataset (Kaggle) 
 
 ---
 

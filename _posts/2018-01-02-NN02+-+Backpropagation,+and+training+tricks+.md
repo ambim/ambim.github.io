@@ -1,6 +1,6 @@
 ---
 layout: technical-post
-title: Neural nets 101: Backpropagation & training tricks
+title: Neural nets 101 - Backpropagation & training tricks
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: technical-post
-title: Neural nets 101: Recurrent Neural Networks 	
+title: Neural nets 101 - Recurrent Neural Networks 	
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: technical-post
-title: Neural nets 101: support vector machines 
+title: Neural nets 101 - support vector machines 
 
 ---
 

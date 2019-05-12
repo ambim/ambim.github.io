@@ -1,6 +1,6 @@
 ---
 layout: technical-post
-title: Neural nets 101: Self-organising maps
+title: Neural nets 101 - Self-organising maps
 
 ---
 

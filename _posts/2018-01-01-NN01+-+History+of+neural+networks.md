@@ -1,6 +1,6 @@
 ---
 layout: technical-post
-title: Neural nets 101: History of neural networks
+title: Neural nets 101 - History of neural networks
 
 ---
 
