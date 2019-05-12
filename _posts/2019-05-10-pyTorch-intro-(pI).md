@@ -1,5 +1,11 @@
+---
+layout: technical-post
+title: Introduction to pyTorch (part 1 of 3)
 
-# Intro to pyTorch
+---
+
+In this 3-part series, I'll be going through some basic tensor operations in pyTorch.
+
 pyTorch is an open source deep learning platform that provides a seamless path from research prototyping to production deployment.
 
 
