@@ -24,4 +24,4 @@ will.needham at gmx dot com
 														|
 														|
 														|
-         ...or reach out on social media links below    V 
+         ...or reach out on social media links below     
